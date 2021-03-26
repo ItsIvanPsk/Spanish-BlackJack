@@ -1,0 +1,2 @@
+# Spanish-BlackJack
+'Siete y medio' is similar to Blackjack, on this variant the objective of the game is to reach 7,5 points, for this game we use the Spanish deck to play. The value of the cards are similar to the Blackjack ones, The cards 1 to 9 the value is equal to the numero of the card, but, the 10,11 and the 12 his value is 0.5. The mechanics is the same of Blackjack, but we ca not divide the hand or double the amount. I realised this program on python. I hope to help someone with my program.
